@@ -1,0 +1,14 @@
+{
+    "name": "Squish Word Game",
+    "short_name": "Squish",
+    "description": "Squish as many words into a 8x8 grid as you can.",
+    "start_url": "https://squish.maxtux.io",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "logo.png",
+        "type": "image/png",
+        "sizes": "91x96"
+      }
+    ]
+  }
